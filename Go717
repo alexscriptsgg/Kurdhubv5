@@ -8,9 +8,9 @@ local function n(t,x,d)
     s:SetCore("SendNotification",{Title=t,Text=x,Duration=d or 3})
 end
 
--- Settings (slightly obfuscated)
-local k = ("SubToAlexScripts")
-local l = ("https://loot-link.com/s?fjQ5EbHT")
+-- Settings (updated)
+local k = ("1511")
+local l = ("https://loot-link.com/s?7QWZdGFL")
 local u = ("https://raw.githubusercontent.com/Ninja10908/S4/refs/heads/main/Kurdhub")
 
 -- GUI Setup
